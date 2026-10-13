@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { PORTFOLIO_DATA } from '../data/portfolioData';
-import Suraj_image from '../assets/images/Suraj2.jpg';
+import Suraj_image from '../assets/images/suraj_profile.jpg';
 import {
   Check,
   Copy,
